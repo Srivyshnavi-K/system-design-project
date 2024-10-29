@@ -1,0 +1,11 @@
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/HtmlFileWorkerApplication.java
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/client/URLFeederService.java
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/config/KafkaConfig.java
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/config/ThreadPoolConfig.java
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/config/URLFeederServiceConfig.java
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/dao/PageRepository.java
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/listener/HTMLWorker.java
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/model/PageInfo.java
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/model/URL.java
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/service/URLProcessor.java
+/home/sriv/Learnings/SrivyshnaviK/HTMLFileWorker/src/main/java/com/learnings/htmlfileworker/service/URLService.java

@@ -1,0 +1,8 @@
+/home/sriv/Learnings/SrivyshnaviK/URLFeeder/src/main/java/com/learnings/urlfeeder/UrlFeederApplication.java
+/home/sriv/Learnings/SrivyshnaviK/URLFeeder/src/main/java/com/learnings/urlfeeder/config/URLProcessorThreadPoolConfig.java
+/home/sriv/Learnings/SrivyshnaviK/URLFeeder/src/main/java/com/learnings/urlfeeder/constants/Constants.java
+/home/sriv/Learnings/SrivyshnaviK/URLFeeder/src/main/java/com/learnings/urlfeeder/controllers/URLController.java
+/home/sriv/Learnings/SrivyshnaviK/URLFeeder/src/main/java/com/learnings/urlfeeder/dao/URLRepository.java
+/home/sriv/Learnings/SrivyshnaviK/URLFeeder/src/main/java/com/learnings/urlfeeder/entities/URL.java
+/home/sriv/Learnings/SrivyshnaviK/URLFeeder/src/main/java/com/learnings/urlfeeder/services/KafkaService.java
+/home/sriv/Learnings/SrivyshnaviK/URLFeeder/src/main/java/com/learnings/urlfeeder/services/URLService.java
